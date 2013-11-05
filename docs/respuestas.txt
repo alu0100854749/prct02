@@ -1,0 +1,22 @@
+Asignatura: Herramientas informáticas de alto nivel
+Parte II - Módulo 1 "Lenguajes dinámicos"
+Práctica 2
+Alumno: Rafael J. Lario Báscones
+
+
+
+Pregunta 8. 
+
+Git es un sistema distribuido de control de versiones de código fuente.
+
+
+Pregunta 10.
+
+Es uno de los elementos del sistema de criptografía asimétrica que se basa en una clave pública que se puede entregar a otros para encriptar unos determinados datos que luego sólo pueden ser desencriptados con la clave privada. Es el método usado por los sistemas de firma digital, por ejemplo.  
+
+
+Pregunta 14.
+
+Es una localización en la nube donde se almacena y mantiene información  (bases de datos, programas, etc).
+
+
