@@ -20,3 +20,21 @@ Pregunta 14.
 Es una localización en la nube donde se almacena y mantiene información  (bases de datos, programas, etc).
 
 
+Preguntas  20 - 21.
+
+rlario@hian2:~/663617/prct02 (master) $ git commit -m "Primera confirmación - ejemplo de remotos" 
+[master (root-commit) c8f6f4c] Primera confirmación - ejemplo de remotos
+ 2 files changed, 23 insertions(+)
+ create mode 100644 docs/respuestas.txt
+ create mode 100644 src/test01
+
+rlario@hian2:~/663617/prct02 (master) $ git log
+commit c8f6f4c2ad746649cc9f94288735f75bb8d57cb4
+Author: Rafael J Lario <alu0100854749@ull.edu.es>
+Date:   Tue Nov 5 04:05:44 2013 -0500
+
+    Primera confirmación - ejemplo de remotos
+    
+
+
+
